@@ -1,0 +1,32 @@
+div.testFloat{
+  float:left;
+  width: 100px;
+  padding:6px;
+  height:200px;
+  margin-left: 10px;
+  background:#f39c12;
+  color:white;
+}
+
+p{
+  background: #ECECEC;
+}
+.clearBoth{
+  clear: both;
+}
+.blueLeft{
+  float:left;
+  width:300px;
+  height:300px;
+  margin : 20px;
+  background: blue;
+}
+.redRight{
+  float:right;
+  width:300px;
+  height:200px;
+  margin:20px;
+  background:red;
+}
+/* essayer de bouger la fenêtre pour voir la réaction du bloc par rapport au texte*/
+/*modifier height et taille du p*/
